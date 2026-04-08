@@ -1,0 +1,3 @@
+mvn archetype:generate -DgroupId=com.example -DartifactId=sample-webapp -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+
+mkdir -p src/main/java/com/example
