@@ -9,11 +9,11 @@
 
     <servlet>
       <servlet-name>Hello</servlet-name>
-      <servlet-class>com.example.HelloServlet</servlet-class>
+      <servlet-class>example.com.HelloServlet</servlet-class>
     </servlet>
     <servlet-mapping>
       <servlet-name>Hello</servlet-name>
-      <url-pattern>/hello</servlet-name>
+      <url-pattern>/hello</url-pattern>
     </servlet-mapping>
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
